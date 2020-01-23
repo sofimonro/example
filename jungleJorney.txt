@@ -6,5 +6,6 @@ List of elements we need:
 1. A tent
 2. Insect repellent
 3. Sunblock
+4. A flashlight
 
 
